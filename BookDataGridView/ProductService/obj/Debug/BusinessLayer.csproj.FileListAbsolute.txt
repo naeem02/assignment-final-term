@@ -1,0 +1,18 @@
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\ProductService\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\ProductService\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\ProductService\bin\Debug\ProductService.dll
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\ProductService\bin\Debug\ProductService.pdb
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\ProductService\bin\Debug\DataAccess.dll
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\ProductService\bin\Debug\DataAccess.pdb
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\ProductService\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\ProductService\obj\Debug\ProductService.dll
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\ProductService\obj\Debug\ProductService.pdb
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\ProductService\bin\Debug\ProductService.dll
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\ProductService\bin\Debug\ProductService.pdb
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\ProductService\bin\Debug\DataAccess.dll
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\ProductService\bin\Debug\DataAccess.pdb
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\ProductService\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\ProductService\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\ProductService\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\ProductService\obj\Debug\ProductService.dll
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\ProductService\obj\Debug\ProductService.pdb

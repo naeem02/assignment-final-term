@@ -1,0 +1,12 @@
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\DataAccess\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\DataAccess\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Sabbir\Desktop\Naeem\BookDataGridView\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\DataAccess\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\DataAccess\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\N A E E M\Desktop\New folder (5)\BookDataGridView\DataAccess\obj\Debug\DataAccess.pdb
